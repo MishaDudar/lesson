@@ -1,6 +1,8 @@
 
 #include <iostream>
 #include <vector>
+#include <algorithm>
+
 using namespace std;
 
 void eval(int num) {
@@ -13,16 +15,9 @@ void eval(int num) {
 		cout << "the num is odd" << endl;
 	}
 }
-int findLargest(vector<int> nums) {
-	int lrg=nums[0];
-	for (int i = 1; i <= nums.size()-1; i++)
-	{
-		if (nums[i]>lrg)
-		{
-			lrg = nums[i];
-		}
-	}
-	return lrg;
+
+int findLargest(const std::vector<int>& nums) {
+	return *max_element(nums.begin(), nums.end());
 }
 
 int main()
