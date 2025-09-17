@@ -1,0 +1,7 @@
+﻿  cwzadachas.cpp
+C:\Users\Mykhaylo\Documents\GitHub\lesson\codewars\cwzadachas\cwzadachas\count_vowels.hpp(12,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'cwzadachas.cpp')
+  
+  cwzadachas.vcxproj -> C:\Users\Mykhaylo\Documents\GitHub\lesson\codewars\cwzadachas\x64\Debug\cwzadachas.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
