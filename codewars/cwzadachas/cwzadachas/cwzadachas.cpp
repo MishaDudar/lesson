@@ -1,5 +1,7 @@
 #include <iostream>
 #include "count_vowels.hpp"
+#include "sqrdigits.hpp"
+#include "remov_vowels.hpp"
 
 using namespace std;
 
@@ -11,6 +13,14 @@ int main()
     string str;
     cin >> str;
     cout << getCount(str);
+    */
+    ////////////////////////////////////////////////////////////
+    ////////////////////////////////////////////////////////////
+    //sqrdigits.hpp
+    /*
+    int num;
+    cin >> num;
+    cout << square_digits(num);
     */
     ////////////////////////////////////////////////////////////
 

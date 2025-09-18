@@ -127,10 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="createAmericaNumber.hpp" />
     <ClCompile Include="cwzadachas.cpp" />
+    <ClCompile Include="retNeg.Hpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="imasqr.hpp" />
+    <ClInclude Include="multiples3or5.hpp" />
+    <ClInclude Include="remov_vowels.hpp" />
     <ClInclude Include="count_vowels.hpp" />
+    <ClInclude Include="revst.hpp" />
+    <ClInclude Include="sumPos.hpp" />
+    <ClInclude Include="sqrdigits.hpp" />
+    <ClInclude Include="wholikesit.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

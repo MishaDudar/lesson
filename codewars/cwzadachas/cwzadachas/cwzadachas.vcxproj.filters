@@ -18,9 +18,36 @@
     <ClCompile Include="cwzadachas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="createAmericaNumber.hpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="retNeg.Hpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="remov_vowels.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="count_vowels.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sqrdigits.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="multiples3or5.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wholikesit.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sumPos.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="revst.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="imasqr.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
