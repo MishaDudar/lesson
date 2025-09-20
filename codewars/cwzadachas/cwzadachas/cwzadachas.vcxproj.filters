@@ -24,6 +24,9 @@
     <ClCompile Include="retNeg.Hpp">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="getmidlchr.hpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="remov_vowels.hpp">

@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="createAmericaNumber.hpp" />
     <ClCompile Include="cwzadachas.cpp" />
+    <ClCompile Include="getmidlchr.hpp" />
     <ClCompile Include="retNeg.Hpp" />
   </ItemGroup>
   <ItemGroup>

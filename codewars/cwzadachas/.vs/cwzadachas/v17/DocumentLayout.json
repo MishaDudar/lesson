@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03189ED4-E9A5-4C3F-A043-977BAA0C4C81}|cwzadachas\\cwzadachas.vcxproj|C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\imasqr.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{03189ED4-E9A5-4C3F-A043-977BAA0C4C81}|cwzadachas\\cwzadachas.vcxproj|solutionrelative:cwzadachas\\imasqr.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03189ED4-E9A5-4C3F-A043-977BAA0C4C81}|cwzadachas\\cwzadachas.vcxproj|C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\revst.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{03189ED4-E9A5-4C3F-A043-977BAA0C4C81}|cwzadachas\\cwzadachas.vcxproj|solutionrelative:cwzadachas\\revst.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03189ED4-E9A5-4C3F-A043-977BAA0C4C81}|cwzadachas\\cwzadachas.vcxproj|C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\createAmericaNumber.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{03189ED4-E9A5-4C3F-A043-977BAA0C4C81}|cwzadachas\\cwzadachas.vcxproj|solutionrelative:cwzadachas\\createAmericaNumber.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03189ED4-E9A5-4C3F-A043-977BAA0C4C81}|cwzadachas\\cwzadachas.vcxproj|C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\sumPos.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{03189ED4-E9A5-4C3F-A043-977BAA0C4C81}|cwzadachas\\cwzadachas.vcxproj|solutionrelative:cwzadachas\\sumPos.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03189ED4-E9A5-4C3F-A043-977BAA0C4C81}|cwzadachas\\cwzadachas.vcxproj|C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\retNeg.Hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{03189ED4-E9A5-4C3F-A043-977BAA0C4C81}|cwzadachas\\cwzadachas.vcxproj|solutionrelative:cwzadachas\\retNeg.Hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{03189ED4-E9A5-4C3F-A043-977BAA0C4C81}|cwzadachas\\cwzadachas.vcxproj|C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\getmidlchr.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03189ED4-E9A5-4C3F-A043-977BAA0C4C81}|cwzadachas\\cwzadachas.vcxproj|solutionrelative:cwzadachas\\getmidlchr.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03189ED4-E9A5-4C3F-A043-977BAA0C4C81}|cwzadachas\\cwzadachas.vcxproj|C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\cwzadachas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -39,71 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "imasqr.hpp",
-              "DocumentMoniker": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\imasqr.hpp",
-              "RelativeDocumentMoniker": "cwzadachas\\imasqr.hpp",
-              "ToolTip": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\imasqr.hpp",
-              "RelativeToolTip": "cwzadachas\\imasqr.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Title": "getmidlchr.hpp",
+              "DocumentMoniker": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\getmidlchr.hpp",
+              "RelativeDocumentMoniker": "cwzadachas\\getmidlchr.hpp",
+              "ToolTip": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\getmidlchr.hpp",
+              "RelativeToolTip": "cwzadachas\\getmidlchr.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-18T20:05:59.05Z",
+              "WhenOpened": "2025-09-20T05:43:52.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "revst.hpp",
-              "DocumentMoniker": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\revst.hpp",
-              "RelativeDocumentMoniker": "cwzadachas\\revst.hpp",
-              "ToolTip": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\revst.hpp",
-              "RelativeToolTip": "cwzadachas\\revst.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-18T20:01:54.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "retNeg.Hpp",
-              "DocumentMoniker": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\retNeg.Hpp",
-              "RelativeDocumentMoniker": "cwzadachas\\retNeg.Hpp",
-              "ToolTip": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\retNeg.Hpp",
-              "RelativeToolTip": "cwzadachas\\retNeg.Hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-18T19:56:43.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "sumPos.hpp",
-              "DocumentMoniker": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\sumPos.hpp",
-              "RelativeDocumentMoniker": "cwzadachas\\sumPos.hpp",
-              "ToolTip": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\sumPos.hpp",
-              "RelativeToolTip": "cwzadachas\\sumPos.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-18T19:28:39.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "createAmericaNumber.hpp",
-              "DocumentMoniker": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\createAmericaNumber.hpp",
-              "RelativeDocumentMoniker": "cwzadachas\\createAmericaNumber.hpp",
-              "ToolTip": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\createAmericaNumber.hpp",
-              "RelativeToolTip": "cwzadachas\\createAmericaNumber.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-18T18:55:54.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "cwzadachas.cpp",
               "DocumentMoniker": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\cwzadachas\\cwzadachas\\cwzadachas.cpp",
               "RelativeDocumentMoniker": "cwzadachas\\cwzadachas.cpp",
@@ -111,8 +43,7 @@
               "RelativeToolTip": "cwzadachas\\cwzadachas.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-17T20:22:24.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T20:22:24.278Z"
             }
           ]
         }
