@@ -53,5 +53,11 @@
     <ClInclude Include="imasqr.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="spin.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bunch_of_easy.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

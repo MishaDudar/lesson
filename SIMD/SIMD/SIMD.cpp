@@ -44,7 +44,7 @@ void axpy(float a, const float* x, const float* y, float* out, std::size_t n) {
 }
 
 int main() {
-    constexpr std::size_t N = 1'000'000000;
+    constexpr std::size_t N = 1'000'0000000;
     std::vector<float> x(N), y(N), out(N);
 
     std::mt19937 rng(0);

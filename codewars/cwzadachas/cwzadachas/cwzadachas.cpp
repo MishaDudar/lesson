@@ -2,6 +2,7 @@
 #include "count_vowels.hpp"
 #include "sqrdigits.hpp"
 #include "remov_vowels.hpp"
+#include "spin.hpp"
 
 using namespace std;
 
@@ -23,6 +24,9 @@ int main()
     cout << square_digits(num);
     */
     ////////////////////////////////////////////////////////////
+    string str;
+    cin >> str;
+    cout << spinWords(str);
 
 }
 

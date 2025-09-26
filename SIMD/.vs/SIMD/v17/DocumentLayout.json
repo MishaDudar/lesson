@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\SIMD\\",
+  "WorkspaceRootPath": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\SIMD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE91CC2B-62FB-4396-95D7-14902F268D7D}|SIMD\\SIMD.vcxproj|C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\SIMD\\SIMD\\SIMD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DE91CC2B-62FB-4396-95D7-14902F268D7D}|SIMD\\SIMD.vcxproj|C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\SIMD\\SIMD\\SIMD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DE91CC2B-62FB-4396-95D7-14902F268D7D}|SIMD\\SIMD.vcxproj|solutionrelative:SIMD\\SIMD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE91CC2B-62FB-4396-95D7-14902F268D7D}|SIMD\\SIMD.vcxproj|C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\SIMD\\SIMD\\stdh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DE91CC2B-62FB-4396-95D7-14902F268D7D}|SIMD\\SIMD.vcxproj|C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\SIMD\\SIMD\\stdh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DE91CC2B-62FB-4396-95D7-14902F268D7D}|SIMD\\SIMD.vcxproj|solutionrelative:SIMD\\stdh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "stdh.h",
-              "DocumentMoniker": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\SIMD\\SIMD\\stdh.h",
+              "DocumentMoniker": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\SIMD\\SIMD\\stdh.h",
               "RelativeDocumentMoniker": "SIMD\\stdh.h",
-              "ToolTip": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\SIMD\\SIMD\\stdh.h",
+              "ToolTip": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\SIMD\\SIMD\\stdh.h",
               "RelativeToolTip": "SIMD\\stdh.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SIMD.cpp",
-              "DocumentMoniker": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\SIMD\\SIMD\\SIMD.cpp",
+              "DocumentMoniker": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\SIMD\\SIMD\\SIMD.cpp",
               "RelativeDocumentMoniker": "SIMD\\SIMD.cpp",
-              "ToolTip": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\codewars\\SIMD\\SIMD\\SIMD.cpp",
+              "ToolTip": "C:\\Users\\Mykhaylo\\Documents\\GitHub\\lesson\\SIMD\\SIMD\\SIMD.cpp",
               "RelativeToolTip": "SIMD\\SIMD.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-20T05:55:37.43Z",
               "EditorCaption": ""
