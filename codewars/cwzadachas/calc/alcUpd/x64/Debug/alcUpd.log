@@ -1,0 +1,5 @@
+﻿  alcUpd.cpp
+C:\Users\Mykhaylo\source\repos\alcUpd\alcUpd\alcUpd.cpp(262,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  alcUpd.vcxproj -> C:\Users\Mykhaylo\source\repos\alcUpd\x64\Debug\alcUpd.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
